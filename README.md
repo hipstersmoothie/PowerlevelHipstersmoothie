@@ -2,7 +2,7 @@
 
 A bad-ass oh-my-zsh theme.
 
-![screenshot][https://github.com/hipstersmoothie/PowerlevelHipstersmoothie/blob/master/screenshot.png]
+![screenshot](screenshot.png)
 
 
 ## Installation
