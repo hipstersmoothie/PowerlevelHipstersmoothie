@@ -6,7 +6,10 @@ A bad-ass oh-my-zsh theme.
 
 
 ## Installation
-1. Have both [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and the [powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme installed
+1. Intall the following:
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme installed
+* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 2. Install this theme
 ```
 cd ~/.oh-my-zsh/custom/themes/ && git clone https://github.com/hipstersmoothie/PowerlevelHipstersmoothie.git
