@@ -9,7 +9,7 @@ A bad-ass oh-my-zsh theme.
 1. Intall the following:
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme installed
-* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - make sure to also enable this in your editor and terminal
 2. Install this theme
 ```
 cd ~/.oh-my-zsh/custom/themes/ && git clone https://github.com/hipstersmoothie/PowerlevelHipstersmoothie.git
