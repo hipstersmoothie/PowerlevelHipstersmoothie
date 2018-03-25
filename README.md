@@ -2,7 +2,7 @@
 
 A bad-ass oh-my-zsh theme.
 
-![screenshot][/screenshot.png]
+![screenshot][screenshot.png]
 
 
 ## Installation
